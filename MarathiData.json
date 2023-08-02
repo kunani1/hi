@@ -1,0 +1,163 @@
+[
+  {
+    "name": "In Goa 24x7",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49633-k6lny7mw-v1/imageContent-49633-k6lny7mw-m1.png",
+    "id": "807",
+    "group": "Marathi",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1175.mpd"
+  },
+  {
+    "name": "Colors Marathi HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG",
+    "id": "308",
+    "group": "Marathi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd"
+  },
+  {
+    "name": "Colors Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-450-j5jtumug-v3/imageContent-450-j5jtumug-m3.png",
+    "id": "134",
+    "group": "Marathi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Marathi HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",
+    "id": "501",
+    "group": "Marathi",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8846-j7pq3jmo-v2/imageContent-8846-j7pq3jmo-m3.png",
+    "id": "251",
+    "group": "Marathi",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_424/output/manifest.mpd"
+  },
+  {
+    "name": "Star Pravah HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11807-j9kyzle8-v1/imageContent-11807-j9kyzle8-m1.png",
+    "id": "469",
+    "group": "Marathi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/manifest.mpd"
+  },
+  {
+    "name": "Zee YUVA",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png",
+    "id": "248",
+    "group": "Marathi",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd"
+  },
+  {
+    "name": "Sony Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",
+    "id": "658",
+    "group": "Marathi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Toons+",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png",
+    "id": "999",
+    "group": "null",
+    "url": "https://delta14tatasky.akamaized.net/out/i/7253194.mpd"
+  },
+  {
+    "name": "Zee Talkies HD",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",
+    "id": "515",
+    "group": "Marathi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd"
+  },
+  {
+    "name": "Zee Talkies",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8842-j7pp0me8-v2/imageContent-8842-j7pp0me8-m2.png",
+    "id": "249",
+    "group": "Marathi",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd"
+  },
+  {
+    "name": "Fakt Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png",
+    "id": "192",
+    "group": "Marathi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd"
+  },
+  {
+    "name": "Shemaroo MarathiBana",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png",
+    "id": "800",
+    "group": "Marathi",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd"
+  },
+  {
+    "name": "ABP Majha",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-542-j5kwwml4-v2/imageContent-542-j5kwwml4-m2.png",
+    "id": "155",
+    "group": "Marathi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_328/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Lokmat",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12140-j9p7vga8-v1/imageContent-12140-j9p7vga8-m1.png",
+    "id": "140",
+    "group": "Marathi",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_190/output/manifest.mpd"
+  },
+  {
+    "name": "Zee 24 Taas",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png",
+    "id": "261",
+    "group": "Marathi",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_427/output/manifest.mpd"
+  },
+  {
+    "name": "Saam TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png",
+    "id": "546",
+    "group": "Marathi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd"
+  },
+  {
+    "name": "Jai Maharashtra",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1014-j5ngcjug-v2/imageContent-1014-j5ngcjug-m2.png",
+    "id": "233",
+    "group": "Marathi",
+    "url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/manifest.mpd"
+  },
+  {
+    "name": "TV9 Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-315-j5jjsht4-v2/imageContent-315-j5jjsht4-m2.png",
+    "id": "97",
+    "group": "Marathi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/manifest.mpd"
+  },
+  {
+    "name": "Lokshahi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-54569-kcviihig-v3/imageContent-54569-kcviihig-m3.png",
+    "id": "826",
+    "group": "Marathi",
+    "url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd"
+  },
+  {
+    "name": "News State Maharashtra Goa",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NSMG_Thumbnail-v2/NSMG_Thumbnail.png",
+    "id": "1038",
+    "group": "null",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1857/output/manifest.mpd"
+  },
+  {
+    "name": "DD Sahyadri",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11378-j9jq0f9s-v1/imageContent-11378-j9jq0f9s-m1.png",
+    "id": "336",
+    "group": "Marathi",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_522/output/manifest.mpd"
+  },
+  {
+    "name": "Sangeet Marathi",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-870-j5mb6j80-v1/imageContent-870-j5mb6j80-m1.png",
+    "id": "217",
+    "group": "Marathi",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd"
+  }
+]

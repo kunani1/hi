@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Colors Gujarati",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png",
+    "id": "107",
+    "group": "Gujarati",
+    "url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd"
+  },
+  {
+    "name": "Tata Play Gujarati Cinema",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png",
+    "id": "772",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd"
+  },
+  {
+    "name": "Colors Gujarati Cinema",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png",
+    "id": "692",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd"
+  },
+  {
+    "name": "TV9 Gujarati",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",
+    "id": "489",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd"
+  },
+  {
+    "name": "Gujarat Samachar TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12068-j9o9t9jc-v1/imageContent-12068-j9o9t9jc-m1.png",
+    "id": "552",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd"
+  },
+  {
+    "name": "Sandesh News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12167-j9phnio0-v2/imageContent-12167-j9phnio0-m2.png",
+    "id": "586",
+    "group": "Gujarati",
+    "url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd"
+  },
+  {
+    "name": "CNBC Bajaar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png",
+    "id": "303",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd"
+  },
+  {
+    "name": "News18 Gujarati",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png",
+    "id": "6",
+    "group": "Gujarati",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd"
+  },
+  {
+    "name": "ABP Asmita",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-228-j5fxgzio-v2/imageContent-228-j5fxgzio-m2.png",
+    "id": "73",
+    "group": "Gujarati",
+    "url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd"
+  },
+  {
+    "name": "VTV News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11912-j9l58n8w-v2/imageContent-11912-j9l58n8w-m4.png",
+    "id": "497",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd"
+  },
+  {
+    "name": "Zee 24 Kalak",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11924-j9l5fs6w-v3/imageContent-11924-j9l5fs6w-m3.png",
+    "id": "507",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd"
+  },
+  {
+    "name": "India News Gujarat",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-26589-jj9w5h54-v1/imageContent-26589-jj9w5h54-m2.png",
+    "id": "654",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd"
+  },
+  {
+    "name": "Mantavya News",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61443-kmbf79yw-v1/imageContent-61443-kmbf79yw-m1.png",
+    "id": "891",
+    "group": "News",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1302/output/manifest.mpd"
+  },
+  {
+    "name": "1st Gujarat",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/1STGUJ_Thumbnail-v2/1STGUJ_Thumbnail.png",
+    "id": "974",
+    "group": "Gujarati",
+    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd"
+  },
+  {
+    "name": "DD Girnar",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11341-j9jpdu00-v1/imageContent-11341-j9jpdu00-m1.png",
+    "id": "323",
+    "group": "Gujarati",
+    "url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd"
+  },
+  {
+    "name": "Lakshya TV",
+    "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67703-kwog27o0-v1/imageContent-67703-kwog27o0-m1.png",
+    "id": "961",
+    "group": "Gujarati",
+    "url": "https://delta45tatasky.akamaized.net/out/i/1316.mpd"
+  }
+]
