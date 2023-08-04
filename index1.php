@@ -142,4 +142,68 @@
 										<p class="text-xs text-center">Spiritual</p>
 									</div>
 								</div>
+				                        </div></a></div>
+					<div class="box1"> <a target="_blank" href="play.php?id=1023" data-sveltekit-preload-data="hover"> <div class="card w-40 bg-gray-100 rounded-xl bg-base-100 shadow-lg h-48 mb-4 flex flex-col"><img src="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73014-l8gzok74-v2/imageContent-73014-l8gzok74-m4.png" loading="lazy" class="h-28 mt-5 m-auto opacity-100"> <div class="mb-5 opacity-100">
+									<h2 class="text-center text-sm font-bold">Daiji World TV</h2>
+									<div class="flex justify-center space-x-1">
+										<p class="text-xs text-center">Knowledge</p>
+									</div>
+								</div>
 							</div></a></div>
+				</div>
+			</div>
+		</main>
+		<div id="svelte-announcer" aria-live="assertive" aria-atomic="true" style="position: absolute; left: 0px; top: 0px; clip: rect(0px, 0px, 0px, 0px); clip-path: inset(50%); overflow: hidden; white-space: nowrap; width: 1px; height: 1px;"></div>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+		<script>
+			// Get search input element
+	
+	  const searchInput = document.getElementById('searchInput');
+	
+	
+	
+	  // Add input event listener
+	
+	  searchInput.addEventListener('input', filterData);
+	
+	
+	
+	  // Search functionality
+	
+	  function filterData() {
+	
+	    const updatedSearchValue = searchInput.value.toLowerCase();
+	
+	
+	
+	    // Get all box elements
+	
+	    const boxes = document.querySelectorAll('.box1');
+	
+	
+	
+	    boxes.forEach((box) => {
+	
+	      const h2Text = box.querySelector('h2').textContent.toLowerCase();
+	
+	      const pText = box.querySelector('p').textContent.toLowerCase();
+	
+	
+	
+	      if (h2Text.includes(updatedSearchValue) || pText.includes(updatedSearchValue)) {
+	
+	        box.style.display = 'block'; // Show matching box
+	
+	      } else {
+	
+	        box.style.display = 'none'; // Hide non-matching box
+	
+	      }
+	
+	    });
+	
+	  }
+		</script>
+	</body>
+
+</html>
