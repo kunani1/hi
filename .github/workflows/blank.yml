@@ -34,7 +34,7 @@ jobs:
 
       - name: Clone The Secret Repository
         run: |
-          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/MERGE-BOT -b ${Branch} source
+          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/tata-play-dl-kunani1 -b ${Branch} source
 
       - name: Compile The Docker Container
         run: |
