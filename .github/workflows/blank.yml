@@ -2,14 +2,14 @@ name: Deploy Ultimate Bypass Bot to GA
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
     paths-ignore: 'README.md'
   workflow_dispatch:
    
 env:
   GitHubMail: "kunanisaitarun55@gmail.com"
   GitHubName: "Kunani1" 
-  Branch: "master"
+  Branch: "main"
 
 jobs:
   build:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Clone The Secret Repository
         run: |
-          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/MERGE-BOT -b ${Branch} source
+          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/TGVid-Comp -b ${Branch} source
 
       - name: Compile The Docker Container
         run: |
@@ -58,4 +58,4 @@ jobs:
           echo $(( RANDOM - ( RANDOM % RANDOM ) )) > loop.txt
           git add loop.txt
           git commit -m "Workflow : Loop"
-          git push -q https://${{ secrets.GH_TOKEN }}@github.com/${GITHUB_REPOSITORY} HEAD:master
+          git push -q https://${{ secrets.GH_TOKEN }}@github.com/${GITHUB_REPOSITORY} HEAD:main
