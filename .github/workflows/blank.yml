@@ -2,7 +2,7 @@ name: Deploy Ultimate Bypass Bot to GA
 
 on:
   push:
-    branches: [ main ]
+    branches: [ Tech_VJ ]
     paths-ignore: 'README.md'
   workflow_dispatch:
    
