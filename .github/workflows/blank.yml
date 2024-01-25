@@ -9,7 +9,7 @@ on:
 env:
   GitHubMail: "kunanisaitarun55@gmail.com"
   GitHubName: "Kunani1" 
-  Branch: "main"
+  Branch: "Tech_VJ"
 
 jobs:
   build:
@@ -34,7 +34,7 @@ jobs:
 
       - name: Clone The Secret Repository
         run: |
-          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/PROFESSOR-BOT -b ${Branch} source
+          git clone https://${{ secrets.GH_TOKEN }}@github.com/kunani1/VJ-FILTER-BOT -b ${Branch} source
 
       - name: Compile The Docker Container
         run: |
@@ -58,4 +58,4 @@ jobs:
           echo $(( RANDOM - ( RANDOM % RANDOM ) )) > loop.txt
           git add loop.txt
           git commit -m "Workflow : Loop"
-          git push -q https://${{ secrets.GH_TOKEN }}@github.com/${GITHUB_REPOSITORY} HEAD:main
+          git push -q https://${{ secrets.GH_TOKEN }}@github.com/${GITHUB_REPOSITORY} HEAD:Tech_VJ
